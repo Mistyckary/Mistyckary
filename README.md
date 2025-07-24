@@ -1,13 +1,5 @@
-/karina-banner.png/
-404 - página no encontrada
-El 
-principal
+Subir banner visual de perfil
 
- rama de 
-Mistyckary
-
- no contiene la ruta 
-karina-banner.png .
 # 🌷 Mistyckary
 
 Hola, soy Mistyckary. Bienvenida/o a mi espacio en GitHub.
