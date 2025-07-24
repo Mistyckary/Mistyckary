@@ -1,5 +1,6 @@
-Subir banner visual de perfil
-
+<p align="center">
+  <img src="karina-banner.png" alt="Banner de Mistyckary" width="100%">
+</p>
 # 🌷 Mistyckary
 
 Hola, soy Mistyckary. Bienvenida/o a mi espacio en GitHub.
