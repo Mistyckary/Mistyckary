@@ -1,4 +1,5 @@
-![Banner](A_banner-style_digital_illustration_features_Karin.png)
+![Banner](karina-banner.png)
+
 # 🌷 Mistyckary
 
 Hola, soy Mistyckary. Bienvenida/o a mi espacio en GitHub.
