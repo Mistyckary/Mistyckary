@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="karina-banner.png" alt="Banner de Mistyckary" width="100%">
+  <img src="09b86c63-7e96-4189-b06c-cf826c443b0e.png" alt="Banner de Mistyckary" width="100%">
 </p>
+
 # 🌷 Mistyckary
 
 Hola, soy Mistyckary. Bienvenida/o a mi espacio en GitHub.
