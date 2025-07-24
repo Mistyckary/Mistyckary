@@ -1,5 +1,3 @@
-![Banner](karina-banner.png)
-
 # 🌷 Mistyckary
 
 Hola, soy Mistyckary. Bienvenida/o a mi espacio en GitHub.
